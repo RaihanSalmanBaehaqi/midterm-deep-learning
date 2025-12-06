@@ -7,7 +7,7 @@
 | Field | Information |
 |-------|-------------|
 | **Name** | RAIHAN SALMAN BAEHAQI |
-| **Class** |  |
+| **Class** | TK-46-G10 |
 | **Student ID (NIM)** | 1103220180 |
 
 ---
@@ -138,7 +138,7 @@ midterm-deep-learning/
 │ ├── 02_regresi_midterm.ipynb # Notebook for music year prediction
 │
 └── 03.Clustering-Midterm/ # Customer Segmentation Project
-├── 03_clustering_midterm.ipynb # Notebook for customer segmentation
+│ ├── 03_clustering_midterm.ipynb # Notebook for customer segmentation
 ```
 
 ### Running the Notebooks
